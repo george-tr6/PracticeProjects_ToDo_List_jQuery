@@ -1,1 +1,1 @@
-alert("Conected");
+console.log("Conected");
