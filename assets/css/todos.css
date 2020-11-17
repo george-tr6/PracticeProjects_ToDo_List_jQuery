@@ -4,7 +4,7 @@
     margin: 0 auto;
 }
 
-.strike{
+.completed{
+    color: gray;
     text-decoration: line-through;
-    margin-left: 20px;
 }
